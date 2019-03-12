@@ -11,6 +11,7 @@
         </main>
         @if (App\display_sidebar())
           <aside class="sidebar">
+            test
             @include('partials.sidebar')
           </aside>
         @endif
