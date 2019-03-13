@@ -8,8 +8,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/app/themes/doubletroublegang-revamp",
-  "devUrl": "dtrevamp.manyhatsdigital.com",
+  "publicPath": "/app/themes/doubletroublerevamp",
+  "devUrl": "https://dtrevamp.manyhatsdigital.com",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
